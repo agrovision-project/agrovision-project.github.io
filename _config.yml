@@ -44,3 +44,49 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
+logo: "/assets/logos/agrovision.jpeg"
+author:
+  name   : "AgroVision"
+  avatar   : "/assets/logos/agrovision.jpeg"
+  bio    : "AgroVision: Leveraging Remote Sensing and AI for precision agriculture."
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://stemauro.github.io/agrovision.github.io"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/stemauro/agrofusion/tree/v0.1.0"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/stemauro/agrofusion/tree/v0.1.0"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
