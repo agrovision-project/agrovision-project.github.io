@@ -2,10 +2,10 @@
 title: AgroVision
 layout: splash
 permalink: /
-# header:
-#   overlay_image: /assets/images/photo-1550418290-a8d86ad674a6.png
-#   overlay_filter: "0.5"
-#   overlay_color: "#5e616c"
+header:
+  overlay_image: /assets/images/banner.png
+  overlay_filter: "0.5"
+  overlay_color: "#5e616c"
 excerpt: >
   **AI‑driven precision agriculture data**. AgroVision provides automated, high‑quality reference data for smarter farming through the integration of field photos, remote‑sensing time series, weather and soil information.
 ---
@@ -16,6 +16,6 @@ excerpt: >
 
 ---
 
-<img src="/assets/logos/esa.png" style="width:200px;" />
+<img src="/assets/images/logos/esa.png" style="width:200px;" />
 
 This project is funded by the European Space Agency (ESA) φ-Lab under contract No: 4000147606.

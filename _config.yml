@@ -45,10 +45,10 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-logo: "/assets/logos/agrovision.jpeg"
+logo: "/assets/images/logos/agrovision.jpeg"
 author:
   name   : "AgroVision"
-  avatar   : "/assets/logos/agrovision.jpeg"
+  avatar   : "/assets/images/logos/agrovision.jpeg"
   bio    : "AgroVision: Leveraging Remote Sensing and AI for precision agriculture."
   links:
     - label: "Website"
