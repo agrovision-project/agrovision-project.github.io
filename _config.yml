@@ -53,10 +53,13 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://stemauro.github.io/agrovision.github.io"
+      url: "https://agrovision.github.io"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/company/agrovisionproject"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/stemauro/agrofusion/tree/v0.1.0"
+      url: "https://github.com/agrovision-project"
 
 footer:
   links:
