@@ -6,9 +6,9 @@
 title: AgroVision
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  AgroVision: Leveraging Remote Sensing and AI for Agriculture, a project funded by ESA.
+  AgroVision: AI and Remote Sensing for precision agriculture.
 twitter_username:
-github_username: agrovision
+github_username: agrovision-project
 minimal_mistakes_skin: default
 search: false
 
@@ -49,7 +49,7 @@ logo: "/assets/images/logos/agrovision.jpeg"
 author:
   name   : "AgroVision"
   avatar   : "/assets/images/logos/agrovision.jpeg"
-  bio    : "AgroVision: Leveraging Remote Sensing and AI for precision agriculture."
+  bio    : "AgroVision: AI and Remote Sensing for precision agriculture."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -63,9 +63,15 @@ author:
 
 footer:
   links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://agrovision-project.github.io"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin-in"
+      url: "https://www.linkedin.com/company/agrovisionproject"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/stemauro/agrofusion/tree/v0.1.0"
+      url: "https://github.com/agrovision-project"
 
 defaults:
   # _posts

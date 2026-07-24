@@ -1,0 +1,19 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+$sans-serif-narrow  : "Source Sans 3", Arial, sans-serif;
+
+$global-font-family : $sans-serif-narrow;
+$header-font-family : $sans-serif-narrow;
+
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+body {
+  font-size: 0.9em;
+}

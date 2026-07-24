@@ -1,7 +1,7 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Consortium and members"
+  - title: "People"
     url: /consortium/
-  - title: "Deliverables and publications"
+  - title: "Publications"
     url: /deliverables/

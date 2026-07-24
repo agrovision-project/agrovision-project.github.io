@@ -7,17 +7,22 @@ permalink: /consortium/
 
 ## Consortium
 
-<img src="/assets/images/logos/utc.png" class="align-center" style="height: 200px;" /> 
+<a href="https://www.utwente.nl/en/itc/"><img src="/assets/images/logos/utc.png" class="align-center" style="height: 200px;" /></a>
 
 <center><strong>University of Twente (UTC)</strong>
-<br />PI: Dr. Claudia Paris, Dr. Mehmet Furkan Celik</center>
+<br />Dr. Claudia Paris (PI), Dr. Mehmet Furkan Celik</center>
 
 <hr>
 
-<img src="/assets/images/logos/fzj.svg" class="align-center" style="height: 300px;" /> 
+<a href="https://www.fz-juelich.de/en/jsc/about-us/structure/simulation-and-data-labs/sdl-ai-ml-remote-sensing"><img src="/assets/images/logos/fzj.svg" class="align-center" style="height: 300px;" /></a> 
 
 <center><strong>Forschungszentrum Jülich (FZJ)</strong>
-<br />PI: Prof. Dr. Gabriele Cavallaro, Dr. Rocco Sedona, Stefano Maurogiovanni</center>
+<br />Prof. Dr. Gabriele Cavallaro (PI), Dr. Rocco Sedona, Stefano Maurogiovanni</center>
+
+<a href="https://philab.esa.int/"><img src="/assets/images/logos/esa-philab.png" class="align-center" style="scale: 0.5 0.5;" /></a> 
+
+<center><strong>ESA φ-Lab</strong>
+<br />Dr. Valerio Marsocci, Dr. Ruben Cartuyvels</center>
 
 <hr>
 
