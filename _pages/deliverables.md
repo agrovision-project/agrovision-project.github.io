@@ -7,7 +7,7 @@ permalink: /deliverables/
 ---
 
 <p>
-Celik, M.F., Maurogiovanni, S., Sedona, R., Cavallaro, G., Marsocci, V., Cartuyvels, R., Yordanov, M., van der Velde, M., Paris, C., 2026. <strong>A Pan-European Multimodal Dataset Linking Field Photos with Satellite Image Time Series for Agricultural Mapping</strong>. <em>Under review</em>.
+Celik, M.F., Maurogiovanni, S., Sedona, R., Cavallaro, G., Marsocci, V., Cartuyvels, R., Yordanov, M., van der Velde, M., Paris, C., 2026. <strong>A Pan-European Multimodal Dataset Linking Field Photos with Satellite Image Time Series for Agricultural Mapping</strong>. <em>Accepted</em>.
 
 <br />
     <a href="/404.md"><i class="far fa-file-pdf"></i> Link</a>&nbsp;&nbsp;
@@ -16,7 +16,7 @@ Celik, M.F., Maurogiovanni, S., Sedona, R., Cavallaro, G., Marsocci, V., Cartuyv
 </p>
 
 <p>
-Paris, C., Celik, M.F., Maurogiovanni, S., Tsang, G., Marsocci, V., Cartuyvels, R., Cavallaro, Sedona, R., 2026. <strong>Multimodal Crop Type Classification with Geospatial Foundation Models and Geo-tagged Field Photos</strong>. <em>Under submission</em>.
+Paris, C., Celik, M.F., Maurogiovanni, S., Tsang, G., Marsocci, V., Cartuyvels, R., Cavallaro, Sedona, R., 2026. <strong>Multimodal Crop Type Classification with Geospatial Foundation Models and Geo-tagged Field Photos</strong>. <em>Under review</em>.
 
 <br />
     <a href="/404.md"><i class="far fa-file-pdf"></i> Link</a>&nbsp;&nbsp;
