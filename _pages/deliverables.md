@@ -7,7 +7,7 @@ permalink: /deliverables/
 ---
 
 <p>
-Celik, M.F., Maurogiovanni, S., Sedona, R., Cavallaro, G., Marsocci, V., Cartuyvels, R., Yordanov, M., van der Velde, M., Paris, C., 2026. <strong>A Pan-European Multimodal Dataset Linking Field Photos with Satellite Image Time Series for Agricultural Mapping</strong>. <em>Published — Nature Scientific Data</em>.
+Celik, M.F., Maurogiovanni, S., Sedona, R., Cavallaro, G., Marsocci, V., Cartuyvels, R., Yordanov, M., van der Velde, M., Paris, C., 2026. <strong>A Pan-European Multimodal Dataset Linking Field Photos with Satellite Image Time Series for Agricultural Mapping</strong>. <em>Published — Scientific Data</em>.
 
 <br />
     <a href="https://www.nature.com/articles/s41597-026-08073-7"><i class="far fa-file-pdf"></i> Link</a>&nbsp;&nbsp;
