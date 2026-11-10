@@ -15,7 +15,7 @@ excerpt: >
 
 * \[**18 November 2026**\]: The *"AgroVision Workshop"*, presenting the key outputs, achievements, and findings of the project, is taking place remotely. Join the event at [**this link**](https://teams.microsoft.com/meet/3655453840644039?p=7gj9ysfSfNshh3OvNN).
 
-* \[**01 November 2026**\]: The paper *"Ground-to-Satellite Knowledge Distillation for Crop Classification under Temporal and Geographic Shift"* is accepted for publication at [**JSTARS**](./_pages/404.md).
+* \[**01 November 2026**\]: The paper *"Multimodal Crop Type Classification with Geospatial Foundation Models and Geo-tagged Field Photos"* is accepted for publication at [**JSTARS**](./_pages/404.md).
 
 * \[**29 September 2026**\]: The paper *"Ground-to-Satellite Knowledge Distillation for Crop Classification under Temporal and Geographic Shift"* is accepted for oral presentation at [**REO 2026**](https://reo-workshop.org/2026/).
 
