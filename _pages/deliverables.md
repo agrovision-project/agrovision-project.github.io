@@ -20,8 +20,7 @@ Paris, C., Celik, M.F., Maurogiovanni, S., Tsang, G., Marsocci, V., Cartuyvels, 
 
 <br />
     <a href="/404.md"><i class="far fa-file-pdf"></i> Link</a>&nbsp;&nbsp;
-	<a href="/404.md"><i class="far fa-copy"></i> arXiv</a>&nbsp;&nbsp;
-	<a href="/404.md"><i class="fas fa-code-branch"></i> Code</a>&nbsp;&nbsp;
+	<a href="https://github.com/agrovision-project/geocrop-mm"><i class="fas fa-code-branch"></i> Code</a>&nbsp;&nbsp;
 </p>
 
 <p>
@@ -30,25 +29,19 @@ Classification under Temporal and Geographic Shift
 </strong>. <em>Accepted — REO 2026</em>.
 
 <br />
-    <a href="https://reo-workshop.org/2026/"><i class="far fa-file-pdf"></i> Link</a>&nbsp;&nbsp;
-	<a href="/404.md"><i class="far fa-copy"></i> arXiv</a>&nbsp;&nbsp;
-	<a href="/404.md"><i class="fas fa-code-branch"></i> Code</a>&nbsp;&nbsp;
+	<a href="https://arxiv.org/abs/2610.37021"><i class="far fa-file-pdf"></i> Link</a>&nbsp;&nbsp;
 </p>
 
 <p>
 Paris, C., Celik, M.F., Maurogiovanni, S., Sedona, R., Cavallaro, G., Cartuyvels, R., Marsocci, V., 2026. <strong>From Satellite Data and Geo-Tagged Field Photos to Reliable Agricultural Reference Data</strong>. <em>Presented — IGARSS 2026</em>.
 
 <br />
-    <a href="https://2026.ieeeigarss.org/view_paper.php?PaperNum=2942&SessionID=1476"><i class="far fa-file-pdf"></i> Link</a>&nbsp;&nbsp;
-	<a href="/404.md"><i class="far fa-copy"></i> arXiv</a>&nbsp;&nbsp;
-	<a href="/404.md"><i class="fas fa-code-branch"></i> Code</a>&nbsp;&nbsp;
+    <a href="https://xplorestaging.ieee.org/document/11730244"><i class="far fa-file-pdf"></i> Link</a>&nbsp;&nbsp;
 </p>
 
 <p>
 Maurogiovanni, S., Sedona, R., Celik, M.F., Cavallaro, G., Paris, C., 2026. <strong>Combining VLM and Geo-Tagged Field Photos for Scalable Agricultural Reference Data</strong>. <em>Presented — IGARSS 2026</em>.
 
 <br />
-    <a href="https://2026.ieeeigarss.org/view_paper.php?PaperNum=3309&SessionID=1479"><i class="far fa-file-pdf"></i> Link</a>&nbsp;&nbsp;
-	<a href="/404.md"><i class="far fa-copy"></i> arXiv</a>&nbsp;&nbsp;
-	<a href="/404.md"><i class="fas fa-code-branch"></i> Code</a>&nbsp;&nbsp;
+    <a href="https://xplorestaging.ieee.org/document/11731267"><i class="far fa-file-pdf"></i> Link</a>&nbsp;&nbsp;
 </p>
