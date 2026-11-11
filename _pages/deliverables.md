@@ -16,10 +16,10 @@ Celik, M.F., Maurogiovanni, S., Sedona, R., Cavallaro, G., Marsocci, V., Cartuyv
 </p>
 
 <p>
-Paris, C., Celik, M.F., Maurogiovanni, S., Tsang, G., Marsocci, V., Cartuyvels, R., Cavallaro, Sedona, R., 2026. <strong>Multimodal Crop Type Classification with Geospatial Foundation Models and Geo-tagged Field Photos</strong>. <em>Accepted — JSTARS</em>.
+Paris, C., Celik, M.F., Maurogiovanni, S., Tsang, G., Marsocci, V., Cartuyvels, R., Cavallaro, Sedona, R., 2026. <strong>Multimodal Crop Type Classification with Geospatial Foundation Models and Geo-tagged Field Photos</strong>. <em>Published — JSTARS</em>.
 
 <br />
-    <a href="/404.md"><i class="far fa-file-pdf"></i> Link</a>&nbsp;&nbsp;
+    <a href="https://ieeexplore.ieee.org/document/11782670"><i class="far fa-file-pdf"></i> Link</a>&nbsp;&nbsp;
 	<a href="https://github.com/agrovision-project/geocrop-mm"><i class="fas fa-code-branch"></i> Code</a>&nbsp;&nbsp;
 </p>
 
